@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caioseda
-- 👀 I’m interested in Machine Learning and Art
+- 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Data Science and software development
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/caioseda/) page
